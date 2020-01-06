@@ -1,5 +1,5 @@
 data:
-  env: localhost-online
+  env: config-server
   user:
     username: client
     password: 123456

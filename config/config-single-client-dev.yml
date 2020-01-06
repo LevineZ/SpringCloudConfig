@@ -1,5 +1,5 @@
 data:
-  env: localhost-dev-edit888
+  env: config-server
   user:
     username: configdev
     password: 123456
